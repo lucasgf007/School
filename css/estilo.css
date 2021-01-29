@@ -1,0 +1,21 @@
+#home{
+    background: white;
+    color: black;
+}
+
+.logo{
+    background: #FFD700;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.fundo{
+    padding-top: 15px;
+    background: #6868707e;
+    border-radius: 20px;
+    
+    
+}
